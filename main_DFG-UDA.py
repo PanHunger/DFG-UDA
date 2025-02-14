@@ -301,6 +301,7 @@ if __name__ == "__main__":
     param_lr = []
     for param_group in optimizer.param_groups:
         param_lr.append(param_group["lr"])
+        
     """# Recoder"""
     # losses
     train_classifier_loss = 0.0
