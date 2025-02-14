@@ -1,3 +1,5 @@
+![DFG-UDA architecture.](./architecture.png)
+
 Thank you for your attention.
 
 This is part of the DFG-UDA code.
